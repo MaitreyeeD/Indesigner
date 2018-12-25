@@ -1,4 +1,4 @@
-# Indesigner
+# InDesigner
 Term Project for Carnegie Mellon course Fundamentals of Programming (15112). 
 
 # About
